@@ -41,3 +41,14 @@ nav{
     align-items: center;
 
 }
+
+.nav-enlace:hover{
+    background: rgb(227, 81, 65);
+        color: rgb(85, 42, 225);
+        display: inline-flex;
+        text-decoration: none;
+        margin-inline: 150px;
+        border-radius: 15px;
+        border: solid 2px rgb(141, 4, 27);
+
+}
