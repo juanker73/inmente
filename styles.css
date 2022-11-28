@@ -60,6 +60,21 @@ nav{
     background-color: orangered;
 }
 
+.slider-container {
+    display: flex;
+    width: 50%;
+    height: 50vh;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+}
+
+.slider-container img {
+    flex: 0 0 50%;
+    width: 200%;
+    object-fit: cover;
+    scroll-snap-align: center;
+}
+
 footer{
         background-color: grey;
         border: solid 1px rgb(86, 85, 85);
