@@ -1,3 +1,7 @@
+html{
+    display:flexbox;
+}
+
 .first {
     color: orangered;
 }
@@ -8,9 +12,32 @@
 
 header{
     background-color: grey;
+    border: solid 1px rgb(86, 85, 85);
+    border-radius: 8px 8px 0px 0px;
+    padding: 20px;
+    text-align: center;
+    font-size: larger;
+    
 }
 
 nav{
     display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: greenyellow;
+    padding: 10px;
     
+}
+
+.nav-enlace{
+    background: salmon;
+    color: white;
+    padding-inline: 20px;
+    display:inline-flex;
+    text-decoration: none;
+    margin-inline: 150px;
+    border-radius: 5px;
+    border: solid 2px rgb(234, 91, 114);
+    align-items: center;
+
 }
