@@ -9,10 +9,11 @@ html{
 
 #parrafo {
     color: greenyellow;
+    text-shadow: 2px 1px 20px white;
 }
 
 header{
-    background-color: grey;
+    background-color: rgb(81, 75, 75);
     border: solid 1px rgb(86, 85, 85);
     border-radius: 8px 8px 0px 0px;
     padding: 20px;
@@ -100,7 +101,7 @@ article{
 }
 
 footer{
-        background-color: grey;
+        background-color: rgb(81, 75, 75);
         border: solid 1px rgb(86, 85, 85);
         border-radius: 0px 0px 8px 8px;
         padding: 20px;
