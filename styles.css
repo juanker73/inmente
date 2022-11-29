@@ -31,12 +31,13 @@ nav{
     align-items: center;
     background-color: greenyellow;
     padding: 10px;
-    ;
+    
     
 }
 
 section{
     background-color: orange;
+    
 }
 
 .nav-enlace{
@@ -49,6 +50,7 @@ section{
     border-radius: 5px;
     border: solid 2px rgb(234, 91, 114);
     align-items: center;
+    box-shadow: 2px 5px 5px orangered;
 
 }
 
