@@ -4,6 +4,7 @@ html{
 
 .first {
     color: orangered;
+    text-shadow: 2px 1px 20px white;
 }
 
 #parrafo {
