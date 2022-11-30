@@ -151,7 +151,7 @@ e-mail{
     nav {
         background: none;
         flex-direction: column;
-
+    
     }
 
     .nav-enlace {
@@ -161,6 +161,7 @@ e-mail{
 
     .nav-boton {
         display: inline-block;
+        
     }
 
     .desaparece {
