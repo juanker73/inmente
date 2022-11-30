@@ -8,10 +8,12 @@ html{
 .first {
     color: orangered;
     text-shadow: 2px 1px 20px white;
+    font-size: 54px;
+    margin: auto;
 }
 
 #parrafo {
-    color: greenyellow;
+    color: white;
     text-shadow: 2px 1px 15px white;
 }
 
