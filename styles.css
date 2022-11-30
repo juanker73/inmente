@@ -147,6 +147,16 @@ e-mail{
     display: flow-root;
 }
 
+.secnav{
+    padding: 30px 30px;
+}
+
+.secfoot{
+    padding: 20%;
+    margin-bottom: 0%;
+    text-align: end;
+}
+
 @media (max-width: 600px) {
     nav {
         background: none;
