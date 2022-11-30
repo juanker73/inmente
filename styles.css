@@ -61,13 +61,13 @@ section{
 }
 
 .nav-enlace:hover{
-    background: rgb(227, 81, 65);
-        color: rgb(85, 42, 225);
+    background: orange;
+        color: greenyellow;
         display: inline-flex;
         text-decoration: none;
         margin-inline: 50px;
         border-radius: 15px;
-        border: solid 2px rgb(141, 4, 27);
+        border: solid 2px orangered;
 
 }
 
@@ -139,6 +139,7 @@ footer{
         color:white;
         text-shadow: 2px 1px 10px white;
         padding: 10%;
+        font-family: Arial, Helvetica, sans-serif;
 
 }
 
