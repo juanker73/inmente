@@ -164,6 +164,11 @@ e-mail{
     
     }
 
+    .secfoot{
+        text-align: end;
+        margin-bottom: 0%;
+    }
+
     .nav-enlace {
         margin: 10px 0px;
 
