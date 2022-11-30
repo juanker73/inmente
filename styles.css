@@ -46,15 +46,15 @@ section{
 }
 
 .nav-enlace{
-    background: salmon;
-    color: white;
+    background: greenyellow;
+    color: orangered;
     padding-inline: 20px;
     display:inline-flex;
     text-decoration: none;
     margin-top: 20px;
     margin-inline: 50px;
     border-radius: 5px;
-    border: solid 2px rgb(234, 91, 114);
+    border: solid 2px orangered;
     align-items: center;
     box-shadow: 2px 5px 5px orangered;
 
@@ -67,7 +67,7 @@ section{
         text-decoration: none;
         margin-inline: 50px;
         border-radius: 15px;
-        border: solid 2px orangered;
+        border: solid 2px white;
 
 }
 
