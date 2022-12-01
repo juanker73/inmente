@@ -5,11 +5,17 @@ html{
 
 }
 
+h1{
+    text-align: center;
+}
+
 .first {
     color: orangered;
     text-shadow: 2px 1px 20px white;
     font-size: 54px;
-    margin: auto;
+    margin: 25px;
+    
+
 }
 
 #parrafo {
@@ -18,7 +24,7 @@ html{
 }
 
 header{
-    background-color: rgb(81, 75, 75);
+    background: linear-gradient(black, grey);
     border: solid 1px rgb(86, 85, 85);
     border-radius: 8px 8px 0px 0px;
     padding: 20px;
@@ -129,7 +135,7 @@ article{
 }
 
 footer{
-        background-color: rgb(81, 75, 75);
+        background: linear-gradient(grey, black);
         border: solid 1px rgb(86, 85, 85);
         border-radius: 0px 0px 8px 8px;
         padding: 20px;
